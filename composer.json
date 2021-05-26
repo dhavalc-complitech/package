@@ -1,6 +1,6 @@
 {
     "name": "dhavalc/contact",
-    "description": "this will save contact information in db and send mail",
+    "description": "this will save contact information in database and send mail",
     "type": "library",
     "license": "MIT",
     "authors": [
