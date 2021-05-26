@@ -1,0 +1,20 @@
+{
+    "name": "dhaval/contact",
+    "description": "this will save contact information in db and send mail",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhaval",
+            "email": "dhaval.chotaliya@complitech.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dhaval\\Contact\\": "src/"
+           
+        }
+    }
+}
