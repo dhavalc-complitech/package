@@ -16,5 +16,12 @@
             "Dhaval\\Contact\\": "src/"
            
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dhaval\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
